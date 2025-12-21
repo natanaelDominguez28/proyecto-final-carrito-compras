@@ -1,16 +1,16 @@
-# React + Vite
+# PROYECTO FINAL: Carrito de Compras
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación creada para el curso "React.js" dictada por Sergie Code en Digital House.
 
-Currently, two official plugins are available:
+Se utilizó Bootstrap y algunos estilos personalizados, también SweetAlert2 para popups, material ui para el ícono del carrito.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para los productos se utilizó Fake Store API.
 
-## React Compiler
+También se utilizó diferentes tipos de Hooks: (useState, useEffect, useReducer)
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+Para la navegación se utilizó React Router
 
-## Expanding the ESLint configuration
+También context y providers
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Autor: Natanael Dominguez
+
